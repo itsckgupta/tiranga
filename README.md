@@ -7,7 +7,9 @@
 
 -[Introduction](#introduction)
 
-![Screenshot](/tiranga.png)
 
 ## introduction
 Tiranga The Indian flag
+
+## Image
+![Screenshot](/tiranga.png)
