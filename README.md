@@ -7,5 +7,7 @@
 
 -[Introduction](#introduction)
 
+![Screenshot](/tiranga.png)
+
 ## introduction
 Tiranga The Indian flag
